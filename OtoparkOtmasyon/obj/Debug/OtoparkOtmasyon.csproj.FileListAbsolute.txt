@@ -1,0 +1,6 @@
+D:\Project\AspProjects\OtoparkOtmasyon\OtoparkOtmasyon\bin\Debug\OtoparkOtmasyon.exe.config
+D:\Project\AspProjects\OtoparkOtmasyon\OtoparkOtmasyon\bin\Debug\OtoparkOtmasyon.exe
+D:\Project\AspProjects\OtoparkOtmasyon\OtoparkOtmasyon\bin\Debug\OtoparkOtmasyon.pdb
+D:\Project\AspProjects\OtoparkOtmasyon\OtoparkOtmasyon\obj\Debug\OtoparkOtmasyon.csprojResolveAssemblyReference.cache
+D:\Project\AspProjects\OtoparkOtmasyon\OtoparkOtmasyon\obj\Debug\OtoparkOtmasyon.exe
+D:\Project\AspProjects\OtoparkOtmasyon\OtoparkOtmasyon\obj\Debug\OtoparkOtmasyon.pdb
